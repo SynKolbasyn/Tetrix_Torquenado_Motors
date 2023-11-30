@@ -1,0 +1,15 @@
+sk::i8	KEYWORD1
+sk::u8	KEYWORD1
+sk::i16	KEYWORD1
+sk::u16	KEYWORD1
+sk::i32	KEYWORD1
+sk::u32	KEYWORD1
+sk::f32	KEYWORD1
+sk::f64	KEYWORD1
+Motors	LITERAL1
+Drivers	LITERAL1
+sk::Tetrix_torq	KEYWORD3
+is_initialized	KEYWORD2
+set_driver	KEYWORD2
+get_i2c_addrss	KEYWORD2
+set_speed	KEYWORD2
